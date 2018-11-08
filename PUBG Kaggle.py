@@ -25,7 +25,7 @@ from sklearn import tree
 from sklearn.metrics import accuracy_score
 from sklearn.externals.six import StringIO
 
-#read the csv into a dataframe
+#read the csv into a datafram
 df = pd.read_csv('Documents/pubg-seer/pubgdataset/train_V2.csv')
 
 
